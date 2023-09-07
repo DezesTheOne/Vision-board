@@ -3,3 +3,19 @@ body {
   text-align: center;
   background-color: rgb(231, 231, 209);
 }
+
+.hora {
+  width: 30%;
+}
+
+ul,
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ikona {
+  width: 1em;
+  height: 1em;
+}
