@@ -5,7 +5,8 @@ body {
 }
 
 .hora {
-  width: 30%;
+  width: 20%;
+  border-radius: 20px;
 }
 
 ul,
@@ -18,4 +19,21 @@ ol {
 .ikona {
   width: 1em;
   height: 1em;
+}
+
+footer {
+  padding-top: 40px;
+}
+
+a {
+  color: chocolate;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(146, 0, 0);
+}
+
+p {
+  font-weight: bold;
 }
